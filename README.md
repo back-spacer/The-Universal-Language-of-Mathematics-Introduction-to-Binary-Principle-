@@ -16,17 +16,11 @@ Contents
   - Economics: market buy/sell decisions  
   - Biology: DNA encoding into binary  
   - Computing: parity check for error detection  
-  - Integration: probability as the common thread
 
-- *Lesson 4: Educational Implications*  
-  - Binary counting  
-  - Binary addition and multiplication teaching simulations
-
-- *Challenge Section*  
-  - DNA → Binary → Entropy  
-  - Quantum coin + parity check  
-  - Market entropy  
-  - Integrated exercises across disciplines
+- *Challenge Section: Integrated exercises of models*
+   - Public Health: Epidemic spread
+   - Economy: Market Uncertanty
+   - Biology: DNA mutation
 
 - *Additional Demos*
   - integration_demo      % Lebesgue vs Riemann integration
@@ -39,7 +33,7 @@ Contents
 
 - Run the script for each *Lesson* in the folders "study": lesson1.m, lesson2.m, lesson3.m and lesson4.m. They represent a *hands-on study path* with simulations, exercises, and visualizations that make the book's ideas tangible.
 
-- Run the script for each exammple for the *Challenge Section* contain in the folder "challenges": dna.m, coin.m, market.m, physics.m and exercicies.m.  This “challenge section” with combined exercises (e.g., simulate a DNA sequence, calculate its entropy, and detect errors in transmission) allows you to practice integration across multiple chapters at once.
+- Run the script for each exammple for the *Challenge Section* contain in the folder "challenges".
 
 - Run the script for each additional demo in the folder "demos", which were listed earlier.
 
